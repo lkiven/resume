@@ -16,13 +16,12 @@
 ## 技能清单
 
 - Web开发：PHP/Html5/JavaScript/Css
-- 前端：Bootstrap/Jquery/
-- Web框架：Laravel/ThinkPHP
+- 前端：Bootstrap/Jquery/layui
+- Web框架：ThinkPHP/windframework/Yii
 - 数据库相关：MySQL/PDO/Nosql
-- 版本管理和自动化部署工具：Git/Composer
+- 版本管理和自动化部署工具：Git/Composer/Webhooks
 - 缓存：Redis/Memecached
-- 其他: 微信支付、微信公众号、
-
+- 其他: 微信支付、微信公众号、微信订阅号
 ## 工作经历
 江西房管家(2016.2------2016.5)
 
