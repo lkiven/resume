@@ -17,8 +17,9 @@
 ## 技能清单
 
 - Web开发：PHP/Html5/JavaScript/Css
-- 前端：Bootstrap/Jquery/layui
 - Web框架：ThinkPHP/windframework/Yii
+- 前端：Bootstrap/Jquery/layui
+- 后端：linux/lnmp/lamp/swoole
 - 数据库相关：MySQL/PDO/Nosql
 - 版本管理和自动化部署工具：Git/Composer/Webhooks
 - 缓存：Redis/Memecached
